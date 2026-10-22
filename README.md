@@ -1,4 +1,4 @@
-# Academic Credential Verification
+# AcademicCredentialSystem
 
 A local demonstration app for issuing, verifying, and revoking academic
 credentials using a Solidity contract, a Ganache development blockchain, and
