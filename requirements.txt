@@ -1,0 +1,8 @@
+streamlit>=1.40
+web3>=7,<9
+opencv-python-headless>=4.10
+numpy>=2
+qrcode[pil]>=8
+reportlab>=4
+pandas>=2
+py-solc-x>=2

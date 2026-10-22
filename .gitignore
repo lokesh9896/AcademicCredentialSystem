@@ -1,0 +1,23 @@
+# Python environments and generated files
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+
+# Node dependencies
+node_modules/
+
+# Local blockchain state and deployment-specific configuration
+chain-data/
+contract_config.json
+contract_config_v1_backup.json
+
+# Generated certificate and QR test artifacts
+certificates/
+qr_codes/
+
+# Local secrets and editor files
+.streamlit/secrets.toml
+.agents/
+.DS_Store
+.vscode/
